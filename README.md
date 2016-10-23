@@ -1,4 +1,4 @@
-# Nock Error Responses
+# Should Mock
 
 A testing example for turning off [Nock](https://github.com/node-nock/nock)'s
 mocks programmatically.

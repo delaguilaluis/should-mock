@@ -1,5 +1,5 @@
 {
-  "name": "nock-error-responses",
+  "name": "should-mock",
   "version": "1.0.0",
   "description": "A testing example for turning off Nock's mocks programmatically",
   "main": "index.js",
@@ -9,6 +9,7 @@
   },
   "keywords": [
     "nock",
+    "should",
     "mock",
     "error",
     "responses"
