@@ -1,0 +1,26 @@
+{
+  "name": "nock-error-responses",
+  "version": "1.0.0",
+  "description": "A testing example for turning off Nock's mocks programatically",
+  "main": "index.js",
+  "scripts": {
+    "pretest": "standard",
+    "test": "tape test/*.js"
+  },
+  "keywords": [
+    "nock",
+    "mock",
+    "error",
+    "responses"
+  ],
+  "author": "Luis Del Águila <luisdelaguila@outlook.com>",
+  "license": "ISC",
+  "dependencies": {
+    "wreck": "~10.0.0"
+  },
+  "devDependencies": {
+    "nock": "~9.0.0",
+    "standard": "~8.4.0",
+    "tape": "~4.6.2"
+  }
+}
