@@ -1,7 +1,7 @@
 {
   "name": "nock-error-responses",
   "version": "1.0.0",
-  "description": "A testing example for turning off Nock's mocks programatically",
+  "description": "A testing example for turning off Nock's mocks programmatically",
   "main": "index.js",
   "scripts": {
     "pretest": "standard",

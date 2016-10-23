@@ -1,7 +1,7 @@
 # Nock Error Responses
 
 A testing example for turning off [Nock](https://github.com/node-nock/nock)'s
-mocks programatically.
+mocks programmatically.
 
 This project aims to enable a 'switch' mechanism between running tests over real
 servers (Google) and mocked responses. 
